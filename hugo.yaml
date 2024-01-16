@@ -1,5 +1,5 @@
 ---
-title: "Zen demo site"
+title: "Maestro David Aragon"
 baseURL: "https://zen-demo.xdeb.org/"
 theme: "github.com/frjo/hugo-theme-zen/v3"
 languageCode: "en-GB"
@@ -10,7 +10,7 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Fredrik Jonsson"
+  name: "David Aragon"
   url: "https://xdeb.org"
 
 markup:
@@ -35,7 +35,7 @@ outputs:
 params:
   contact: "frjo@xdeb.org"
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
-  description: "The zen theme for Hugo demo site."
+  description: "Excellent Tutor - David Aragon."
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true
@@ -59,8 +59,8 @@ languages:
     languageName: "English"
     languageCode: "en-GB"
     contentDir: content/en
-  sv:
+  zh:
     weight: 2
-    languageName: "Svenska"
-    languageCode: "sv-SE"
-    contentDir: content/sv
+    languageName: "Chinese"
+    languageCode: "zh-HK"
+    contentDir: content/zhS

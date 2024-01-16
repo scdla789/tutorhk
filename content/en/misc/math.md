@@ -3,7 +3,7 @@ title: Math
 math: true
 submitted: false
 summary: Examples of math typesetting with KaTeX.
-
+draft: true
 ---
 
 ## Math typesetting with KaTeX

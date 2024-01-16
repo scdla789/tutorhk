@@ -3,7 +3,7 @@ title: Components
 tables: true
 submitted: false
 summary: Examples of some components classes.
-
+draft: true
 ---
 
 ## Table with the "zebra-table" and "responsive-table" components classes

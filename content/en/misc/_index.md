@@ -1,7 +1,5 @@
 ---
-title: Misc
+title: Resources
 submitted: false
 
 ---
-
-Other features of the Zen theme.
