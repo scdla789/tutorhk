@@ -1,10 +1,9 @@
 ---
-title: Episod 1
+title: Episode 1
 date: 2022-08-06T18:09:03+02:00
-podcast:
-    mp3: podcasts/podcast1.mp3
-    duration: 0:0:10
-draft: true
+draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{{< rawhtml >}}
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7r9p2KQeN9bqKiE7v2AmuP?utm_source=generator&theme=0&t=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< /rawhtml >}}
