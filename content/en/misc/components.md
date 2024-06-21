@@ -7,7 +7,7 @@ draft: false
 
 
 
-> **Hello** **Aspiringgrantcurrentlyworkingineducationandinterestedin**
+> **Hello** **Aspiring grant writer currently working in education and interested in**
 > **technology.**
 >
 > 286838thavenue#8 Oakland,CA94619 **(619)962-8292**
